@@ -44,7 +44,7 @@
       <configuration>
         <archive>
           <manifest>
-            <mainClass>py.una.server.udp.UDPServer</mainClass>
+            <mainClass>py.una.server.udp.UDPClient</mainClass>
           </manifest>
         </archive>
         <descriptorRefs>
